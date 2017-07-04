@@ -1,0 +1,5 @@
+Official website: http://matplotlib.org/
+
+Examples : http://matplotlib.org/examples/index.html
+Gallery : http://matplotlib.org/gallery.html
+Documents : http://matplotlib.org/contents.html
