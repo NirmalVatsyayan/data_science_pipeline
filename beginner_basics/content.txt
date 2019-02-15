@@ -1,0 +1,3 @@
+basics of numpy
+basics of pandas
+basics of matplotlib
